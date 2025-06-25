@@ -41,12 +41,15 @@ body {
     justify-content: center;
 }
 
+
 .square {
-    height: 150px;
-    width: 150px;
-    border: 1px solid #000000;
+    margin-inline: 3rem ;
+    margin-block: 3rem;
+    width: 166px;
+    height: 124px;
+    border: 7px solid #ff6600;
     background-color: #7fdff7;
-}
+} 
 
 .enemy {
     background-image: url("../images/ralph.png");
