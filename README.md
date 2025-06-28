@@ -1,9 +1,8 @@
 # 🎮 Ralph Arcade - Jogo inspirado em Detona Ralph
 
-Um projeto criado durante o Bootcamp Front-end do Zero da Digital Innovation One para praticar HTML, CSS e JavaScript, explorando conceitos de forma divertida com um jogo inspirado no universo do Detona Ralph.
 
 <p align="center">
-  <img src="./src/images/ralph-capa.png" alt="Capa do Jogo" />
+  <img src="./src/images/ralph-capa.png" alt="Capa do Jogo" width="700" />
 </p>
 
 ## 🚀 Tecnologias usadas
@@ -18,6 +17,14 @@ Um projeto criado durante o Bootcamp Front-end do Zero da Digital Innovation One
 - Manipulação de elementos com JavaScript
 - Estilização com CSS, incluindo Flexbox
 - Aplicação de fontes externas com Google Fonts
+
+---
+
+## 🖥️ Preview do Jogo
+
+<p align="center">
+  <img src="./src/images/print.png" alt="Preview do Jogo Ralph Arcade" width="600" />
+</p>
 
 ---
 
